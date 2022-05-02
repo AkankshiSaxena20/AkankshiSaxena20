@@ -4,7 +4,7 @@ Hi 👋 My name is Akankshi Saxena
 Programmer
 ----------
 
-I have been learning programming in c, c++, python and about STL.
+I have been learning programming in c, c++, python, about STL and practicing on codechef.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [saxenaakankshi20@gmail.com](mailto:saxenaakankshi20@gmail.com)
